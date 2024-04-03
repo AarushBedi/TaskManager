@@ -1,3 +1,8 @@
+# Task Manager
+I created this task manager as a simple side project to familiarize myself with React and Node.js while creating something functional. 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
